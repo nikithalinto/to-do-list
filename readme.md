@@ -1,4 +1,2 @@
-# TO-DO-LIST APP
-
-# Modified 
+# Todo List App
 
