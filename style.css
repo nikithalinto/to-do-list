@@ -8,7 +8,7 @@ body {
     max-width: 600px;
     margin: 50px auto;
     padding: 20px;
-    border: 1px solid #ccc;
+    border: 1px solid #1300df;
     border-radius: 5px;
 }
 
@@ -24,14 +24,14 @@ input[type="text"] {
 
 button {
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #ff0026;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #ff0026;
 }
 
 ul {
@@ -44,10 +44,31 @@ li {
 }
 
 .delete-btn {
-    background-color: #dc3545;
+    background-color: #020016;
     color: #fff;
     border: none;
     padding: 5px 10px;
     cursor: pointer;
 }
+
+.hello {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.small-image {
+    margin-left: 10px;
+    width: 60px;
+
+}
+.completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+  }
+  
+
+
+    
+
 
