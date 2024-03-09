@@ -1,3 +1,3 @@
-# Todo List
+# Todo List app
 
-# Modified by Malavika
+# Modified by us
