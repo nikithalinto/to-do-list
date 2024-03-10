@@ -3,8 +3,11 @@ To-Do List Webpage
 This simple To-Do List webpage is designed to help users organize their tasks in a visually appealing and user-friendly manner. The combination of HTML, CSS, and JavaScript powers this interactive application.
 
 Technologies Used
+
 HTML
+
 CSS
+
 JavaScript
 
 Features
